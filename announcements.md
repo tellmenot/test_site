@@ -1,0 +1,5 @@
+---
+permalink: /announcements/ 
+---
+
+# announcements
